@@ -8,6 +8,7 @@ Green
 Yellow
 Red 
 Indigo
+Recycle
 vibgyor
 These are the colours in my rainbow 
 and the vibgyor
