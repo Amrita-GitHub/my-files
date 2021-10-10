@@ -7,4 +7,6 @@ Blue
 Green
 Yellow
 Red 
-These are the colours in my rainbow
+vibgyor
+These are the colours in my rainbow 
+and the vibgyor
