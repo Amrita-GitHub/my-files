@@ -7,6 +7,7 @@ Blue
 Green
 Yellow
 Red 
+Indigo
 vibgyor
 These are the colours in my rainbow 
 and the vibgyor
